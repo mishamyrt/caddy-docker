@@ -1,3 +1,3 @@
 # Caddy Docker image
 
-A small alpine-based Docker image with curl package to run some http hooks.
+A small alpine–based Docker image with [Caddy](https://github.com/caddyserver/caddy) inside.
